@@ -15,7 +15,7 @@ This repository contains multiple EDA projects that explore different real-world
 
 5-Missing values: Age, Cabin, Embarked.
 
-📂 Notebook: titanic_eda.py
+📂 Notebook:titanic_eda.py
 
 😀 World Happiness EDA 🌍
 >>Exploratory analysis of the World Happiness dataset.
