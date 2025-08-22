@@ -15,7 +15,7 @@ This repository contains multiple EDA projects that explore different real-world
 
 5-Missing values: Age, Cabin, Embarked.
 
-📂 Notebook: titanic_eda.ipynb
+📂 Notebook: titanic_eda.py
 
 😀 World Happiness EDA 🌍
 >>Exploratory analysis of the World Happiness dataset.
@@ -30,7 +30,7 @@ This repository contains multiple EDA projects that explore different real-world
 
 5-Outliers (e.g., countries with high GDP but low freedom).
 
-📂 Notebook: world_happiness_eda.ipynb
+📂 Notebook: world_happiness_eda.py
 
 🦠 Covid-19 EDA
 >>Exploratory analysis of global COVID-19 data.
@@ -45,7 +45,7 @@ This repository contains multiple EDA projects that explore different real-world
 
 5-Relationship between waves of infection and deaths.
 
-📂 Notebook: covid19_eda.ipynb
+📂 Notebook: covid19_eda.py
 
 🍴 Zomato Restaurants EDA 📱
 >>Exploratory analysis of Zomato’s global restaurant dataset.
@@ -62,6 +62,6 @@ This repository contains multiple EDA projects that explore different real-world
 
 6-Scatterplot of number of votes vs. aggregate rating.
 
-📂 Notebook: zomato_eda.ipynb
+📂 Notebook: zomato_eda.py
 
 
