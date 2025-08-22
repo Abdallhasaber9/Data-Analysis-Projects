@@ -1,46 +1,67 @@
 # Data-Analysis-Projects
-1️⃣ Titanic EDA 🛳️
-Exploratory analysis of Titanic passengers: Who survived and who didn’t.
+📊 Data Science Exploratory Data Analysis (EDA) Projects
+This repository contains multiple EDA projects that explore different real-world datasets. Each project includes data cleaning, visualization, and insights that highlight trends and patterns.
 
-Age, gender, and class distributions.
+🛳 Titanic EDA
+>>Exploratory analysis of Titanic passengers: Who survived and who didn’t.
 
-Survival rates by gender and passenger class.
+1-Key Insights
 
-Relationship between fare paid and survival.
+2-Survival rates by gender and passenger class.
 
-Missing values (Age, Cabin, Embarked).
+3-Relationship between fare and survival.
 
-2️⃣ World Happiness EDA 😀🌍
-Exploratory analysis of the World Happiness dataset.
+4-Age, gender, and class distributions.
 
-Top 10 and bottom 10 happiest countries.
+5-Missing values: Age, Cabin, Embarked.
 
-Relationship between GDP, Social Support, Life Expectancy and happiness.
+📂 Notebook: titanic_eda.ipynb
 
-Happiness distribution by regions.
+😀 World Happiness EDA 🌍
+>>Exploratory analysis of the World Happiness dataset.
 
-Outliers in countries with unusual combinations (e.g., high GDP but low freedom).
+1-Key Insights
 
-3️⃣ Covid-19 EDA 🦠
-Exploratory analysis of global COVID-19 data.
+2-Top 10 and bottom 10 happiest countries.
 
-New and cumulative cases over time.
+3-Effect of GDP, Social Support, and Life Expectancy on happiness.
 
-New and cumulative deaths over time.
+4-Regional comparison of happiness scores.
 
-Seasonal and regional comparisons of cases and deaths.
+5-Outliers (e.g., countries with high GDP but low freedom).
 
-Visualizations: Choropleth maps, trend lines, bar plots.
+📂 Notebook: world_happiness_eda.ipynb
 
-4️⃣ Zomato Restaurants EDA 🍴📱
-Exploratory analysis of Zomato’s global restaurant dataset.
+🦠 Covid-19 EDA
+>>Exploratory analysis of global COVID-19 data.
 
-Countries and cities with the highest concentration of restaurants.
+1-Key Insights
 
-Most popular cuisines worldwide and by country.
+2-Trends in new and cumulative cases over time.
 
-Relationship between average cost for two and ratings.
+3-Seasonal and regional comparisons of cases and deaths.
 
-Effect of online delivery and table booking on votes and ratings.
+4-Global choropleth maps for COVID-19 spread.
 
-Scatterplot: number of votes vs. aggregate rating.
+5-Relationship between waves of infection and deaths.
+
+📂 Notebook: covid19_eda.ipynb
+
+🍴 Zomato Restaurants EDA 📱
+>>Exploratory analysis of Zomato’s global restaurant dataset.
+
+1-Key Insights
+
+2-Countries and cities with the most restaurants.
+
+3-Popular cuisines worldwide and per country.
+
+4-Average cost for two vs. ratings.
+
+5-Effect of online delivery and table booking on votes & ratings.
+
+6-Scatterplot of number of votes vs. aggregate rating.
+
+📂 Notebook: zomato_eda.ipynb
+
+
